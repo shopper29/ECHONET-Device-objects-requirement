@@ -1,0 +1,1 @@
+# ECHONETLite-object-rules
