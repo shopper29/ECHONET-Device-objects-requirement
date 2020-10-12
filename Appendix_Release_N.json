@@ -12,7 +12,7 @@
                             "epc": "0x80",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -30,7 +30,7 @@
                             "epc": "0x81",
                             "dataType": "unsigned char",
                             "dataSize": "1or17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -48,7 +48,7 @@
                             "epc": "0x82",
                             "dataType": "unsigned char ×4",
                             "dataSize": "4",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -62,7 +62,7 @@
                             "epc": "0x83",
                             "dataType": "unsigned char",
                             "dataSize": "9or17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -76,7 +76,7 @@
                             "epc": "0x84",
                             "dataType": "unsigned short",
                             "dataSize": "2",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -90,7 +90,7 @@
                             "epc": "0x85",
                             "dataType": "unsigned long",
                             "dataSize": "4",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -104,7 +104,7 @@
                             "epc": "0x86",
                             "dataType": "unsigned char×(MAX)225",
                             "dataSize": "Max225",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -118,7 +118,7 @@
                             "epc": "0x87",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -136,7 +136,7 @@
                             "epc": "0x88",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -150,7 +150,7 @@
                             "epc": "0x89",
                             "dataType": "unsigned short",
                             "dataSize": "2",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -164,7 +164,7 @@
                             "epc": "0x8A",
                             "dataType": "unsigned char×3",
                             "dataSize": "3",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -178,7 +178,7 @@
                             "epc": "0x8B",
                             "dataType": "unsigned char×3",
                             "dataSize": "3",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -192,7 +192,7 @@
                             "epc": "0x8C",
                             "dataType": "unsigned char×12",
                             "dataSize": "12",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -206,7 +206,7 @@
                             "epc": "0x8D",
                             "dataType": "unsigned char×12",
                             "dataSize": "12",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -220,7 +220,7 @@
                             "epc": "0x8E",
                             "dataType": "unsigned char×4",
                             "dataSize": "4",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -234,7 +234,7 @@
                             "epc": "0x8F",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -252,7 +252,7 @@
                             "epc": "0x93",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -270,7 +270,7 @@
                             "epc": "0x97",
                             "dataType": "unsigned char×2",
                             "dataSize": "2",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -288,7 +288,7 @@
                             "epc": "0x98",
                             "dataType": "unsigned char ×4",
                             "dataSize": "4",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -306,7 +306,7 @@
                             "epc": "0x99",
                             "dataType": "unsigned short",
                             "dataSize": "2",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -324,7 +324,7 @@
                             "epc": "0x9A",
                             "dataType": "unsigned char + unsigned long",
                             "dataSize": "1+4Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -338,7 +338,7 @@
                             "epc": "0x9B",
                             "dataType": "unsigned char×(MAX17)",
                             "dataSize": "Max.17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -352,7 +352,7 @@
                             "epc": "0x9C",
                             "dataType": "unsigned char×(MAX17)",
                             "dataSize": "Max.17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -366,7 +366,7 @@
                             "epc": "0x9D",
                             "dataType": "unsigned char×(MAX17)",
                             "dataSize": "Max.17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -380,7 +380,7 @@
                             "epc": "0x9E",
                             "dataType": "unsigned char×(MAX17)",
                             "dataSize": "Max.17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -394,7 +394,7 @@
                             "epc": "0x9F",
                             "dataType": "unsigned char×(MAX17)",
                             "dataSize": "Max.17",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -6030,7 +6030,7 @@
                             "epc": "0xE0",
                             "dataType": "unsigned char×6",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -8101,7 +8101,7 @@
                             "epc": "0xD5",
                             "dataType": "unsignedchar×2",
                             "dataSize": "2Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -8397,11 +8397,11 @@
                             "announceRequired": false
                         },
                         {
-                            "propertyName": "empty_value",
+                            "propertyName": "",
                             "epc": "",
-                            "dataType": "empty_value",
-                            "dataSize": "empty_value",
-                            "unit": "empty_value",
+                            "dataType": "",
+                            "dataSize": "",
+                            "unit": "",
                             "accessRules": [],
                             "announceRequired": false
                         },
@@ -11172,7 +11172,7 @@
                             "epc": "0xE1",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -11232,7 +11232,7 @@
                             "epc": "0xE4",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -11724,7 +11724,7 @@
                             "epc": "0xD1",
                             "dataType": "unsigned",
                             "dataSize": "4byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -11742,7 +11742,7 @@
                             "epc": "0xD2",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -11826,7 +11826,7 @@
                             "epc": "0x97",
                             "dataType": "unsigned char×2",
                             "dataSize": "2Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -11844,7 +11844,7 @@
                             "epc": "0x98",
                             "dataType": "unsigned char×4",
                             "dataSize": "4Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -12540,7 +12540,7 @@
                             "epc": "0xE6",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -13876,7 +13876,7 @@
                             "epc": "0xE5",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -13894,7 +13894,7 @@
                             "epc": "0xE6",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -14434,7 +14434,7 @@
                             "epc": "0xC5",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15168,7 +15168,7 @@
                             "epc": "0xD3",
                             "dataType": "unsigned long",
                             "dataSize": "4Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15266,7 +15266,7 @@
                             "epc": "0xE5",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15352,9 +15352,9 @@
                         {
                             "propertyName": "積算履歴収集日2",
                             "epc": "0xED",
-                            "dataType": "empty_value",
+                            "dataType": "",
                             "dataSize": "7Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15474,7 +15474,7 @@
                             "epc": "0xE5",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15590,7 +15590,7 @@
                             "epc": "0xED",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15608,7 +15608,7 @@
                             "epc": "0xEE",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15636,11 +15636,11 @@
                             "announceRequired": false
                         },
                         {
-                            "propertyName": "empty_value",
+                            "propertyName": "",
                             "epc": "",
-                            "dataType": "empty_value",
-                            "dataSize": "empty_value",
-                            "unit": "empty_value",
+                            "dataType": "",
+                            "dataSize": "",
+                            "unit": "",
                             "accessRules": [],
                             "announceRequired": false
                         },
@@ -15669,7 +15669,7 @@
                             "epc": "0x80",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15687,7 +15687,7 @@
                             "epc": "0xD3",
                             "dataType": "unsigned long",
                             "dataSize": "4Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15701,7 +15701,7 @@
                             "epc": "0xD4",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15715,7 +15715,7 @@
                             "epc": "0xE0",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15729,7 +15729,7 @@
                             "epc": "0xE1",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -15798,7 +15798,7 @@
                             "epc": "0xE6",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15882,7 +15882,7 @@
                             "epc": "0xC5",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15910,7 +15910,7 @@
                             "epc": "0xC7",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -15966,7 +15966,7 @@
                             "epc": "0xCD",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -16130,7 +16130,7 @@
                             "epc": "0xE5",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -16258,7 +16258,7 @@
                             "epc": "0xEE",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -16276,7 +16276,7 @@
                             "epc": "0xEF",
                             "dataType": "unsigned char",
                             "dataSize": "6Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -17878,7 +17878,7 @@
                             "epc": "0xC0",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -17896,7 +17896,7 @@
                             "epc": "0xC1",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -17952,7 +17952,7 @@
                             "epc": "0xC0",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -17970,7 +17970,7 @@
                             "epc": "0xC1",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -18044,7 +18044,7 @@
                             "epc": "0xC6",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -18154,7 +18154,7 @@
                             "epc": "0xD0",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -18210,7 +18210,7 @@
                             "epc": "0xE8",
                             "dataType": "unsigned char×(MAX)31",
                             "dataSize": "Max31Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -19993,7 +19993,7 @@
                             "epc": "0xB0",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20025,7 +20025,7 @@
                             "epc": "0xCA",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20043,7 +20043,7 @@
                             "epc": "0xE0",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20061,7 +20061,7 @@
                             "epc": "0xE1",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20079,7 +20079,7 @@
                             "epc": "0xE2",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20167,7 +20167,7 @@
                             "epc": "0xEB",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20181,7 +20181,7 @@
                             "epc": "0xEC",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20195,7 +20195,7 @@
                             "epc": "0xED",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20213,7 +20213,7 @@
                             "epc": "0xEE",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20249,7 +20249,7 @@
                             "epc": "0xD0",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20263,7 +20263,7 @@
                             "epc": "0xD1",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20277,7 +20277,7 @@
                             "epc": "0xD2",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20291,7 +20291,7 @@
                             "epc": "0xD3",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20305,7 +20305,7 @@
                             "epc": "0xD4",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20511,9 +20511,9 @@
                         {
                             "propertyName": "洗濯乾燥コース設定1",
                             "epc": "0xD0",
-                            "dataType": "empty_value",
+                            "dataType": "",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20529,9 +20529,9 @@
                         {
                             "propertyName": "洗濯乾燥コース設定２",
                             "epc": "0xD1",
-                            "dataType": "empty_value",
+                            "dataType": "",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20581,7 +20581,7 @@
                             "epc": "0xD4",
                             "dataType": "unsigned char×4,",
                             "dataSize": "4",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20645,7 +20645,7 @@
                             "epc": "0xD8",
                             "dataType": "unsigned char",
                             "dataSize": "1Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -20723,7 +20723,7 @@
                             "epc": "0xE2",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -20949,7 +20949,7 @@
                             "epc": "0xEF",
                             "dataType": "unsigned char×24",
                             "dataSize": "24Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -21055,7 +21055,7 @@
                             "epc": "0xB0",
                             "dataType": "unsigned char",
                             "dataSize": "1",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -21617,7 +21617,7 @@
                             "epc": "0xE5",
                             "dataType": "unsigned char x27",
                             "dataSize": "27",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22066,7 +22066,7 @@
                             "epc": "0xCC",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22080,7 +22080,7 @@
                             "epc": "0xCD",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22108,7 +22108,7 @@
                             "epc": "0xCE",
                             "dataType": "unsigned char x(Max. 17)",
                             "dataSize": "Max.17byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22122,7 +22122,7 @@
                             "epc": "0xCF",
                             "dataType": "unsigned char x(Max. 17)",
                             "dataSize": "Max.17byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22354,7 +22354,7 @@
                             "epc": "0xE2",
                             "dataType": "unsigned char×2",
                             "dataSize": "2Byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Get",
@@ -22420,7 +22420,7 @@
                             "epc": "0xC2",
                             "dataType": "unsigned char",
                             "dataSize": "1byte",
-                            "unit": "empty_value",
+                            "unit": "",
                             "accessRules": [
                                 {
                                     "rule": "Set",
@@ -22593,11 +22593,11 @@
                             "announceRequired": false
                         },
                         {
-                            "propertyName": "empty_value",
+                            "propertyName": "",
                             "epc": "",
-                            "dataType": "empty_value",
-                            "dataSize": "empty_value",
-                            "unit": "empty_value",
+                            "dataType": "",
+                            "dataSize": "",
+                            "unit": "",
                             "accessRules": [],
                             "announceRequired": false
                         },
