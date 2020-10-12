@@ -5,7 +5,7 @@
             "classCodes": [
                 {
                     "classCode": "None",
-                    "className": "機器オブジェクトスーパー",
+                    "className": "機器オブジェクトスーパークラス",
                     "properties": [
                         {
                             "propertyName": "動作状態",
